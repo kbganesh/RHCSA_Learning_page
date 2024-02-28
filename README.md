@@ -26,4 +26,14 @@
 
 9. Job_Schedule_and_Shell.md : Cron, Tune system performance by using tuned and nice, Grep and Basic Shell explnation
 
-10. Advanced file Management: 
+10. Advanced file Management: ACL, umask and how to set, Three special permissions (suid, set gid, Sticky bit), File Attributes (chattr)
+
+11. Basic Selinux: Selinux, Lables and more.
+
+12. Manage_LVM_Storage.md : Addting partitions, LVM, Extend LVM, Advanced Storage by using startis
+
+13. NFS_SAMBA.md : Nfs implemention, Samba implemention and configuration and Secure samba configuration.
+
+14. Boot_Process.md : Booting process, Target, Recover root password and Rapir file system.
+
+15. Advanced_firewalld.md : Firewalld and componenets, Add port, Block packets and websites
