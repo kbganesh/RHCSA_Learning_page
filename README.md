@@ -4,7 +4,7 @@
 
 #                                               SECTION 1: 
 
-1. Redhat_Features_Overview.md : About RHCSA and History and how to learn.
+1. Redhat_Features_Overview.md : About RHCSA and History, how to learn and Directory Structure.
 
 2. File_and_Directory_Stuffs.md : Hardlinks, Softlinks, Inode, File ownership, File permissions, Vi Editor stuffs, Pipe and Input and output redirections.
 
@@ -24,7 +24,7 @@
 
 #                                         SECTION 2:
 
-9. Job_Schedule_and_Shell.md : Cron, Tune system performance by using tuned and nice, Grep and Basic Shell explnation
+9. Job_Schedule_and_Shell.md : Cron, Tune system performance by using tuned and nice, Grep, find commands and Basic Shell explnation
 
 10. Advanced file Management: ACL, umask and how to set, Three special permissions (suid, set gid, Sticky bit), File Attributes (chattr)
 
