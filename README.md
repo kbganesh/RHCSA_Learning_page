@@ -37,3 +37,5 @@
 14. Boot_Process.md : Booting process, Target, Recover root password, Grep files modification and Rapir file system.
 
 15. Advanced_firewalld.md : Firewalld and componenets, Add port, Block packets and websites
+
+16. Basic_Scipt.md : Bash Shell scripting and Some example scripts.
