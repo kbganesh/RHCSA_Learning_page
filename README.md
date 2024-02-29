@@ -30,10 +30,10 @@
 
 11. Basic Selinux: Selinux, Lables and more.
 
-12. Manage_LVM_Storage.md : Addting partitions, LVM, Extend LVM, Advanced Storage by using startis
+12. Manage_LVM_Storage.md : Addting partitions, LVM, Extend LVM, Swap creation, Disk compression using VDO and Advanced Storage by using startis
 
 13. NFS_SAMBA.md : Nfs implemention, Samba implemention and configuration and Secure samba configuration.
 
-14. Boot_Process.md : Booting process, Target, Recover root password and Rapir file system.
+14. Boot_Process.md : Booting process, Target, Recover root password, Grep files modification and Rapir file system.
 
 15. Advanced_firewalld.md : Firewalld and componenets, Add port, Block packets and websites
